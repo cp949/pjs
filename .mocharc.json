@@ -1,0 +1,18 @@
+{
+    "diff": true,
+    "extension": [
+        "ts"
+    ],
+    "spec": [
+        "test/**/*.ts"
+    ],
+    "require": "ts-node/register",
+    "watch-files": [
+        "src/**/*.ts",
+        "test/**/*.ts"
+    ],
+    "node-option": [
+        "experimental-specifier-resolution=node",
+        "loader=ts-node/esm"
+    ]
+}
