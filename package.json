@@ -1,6 +1,6 @@
 {
   "name": "@cp949/pjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript utility for my project",
   "main": "build/cjs/index.js",
   "module": "build/es/index.js",
