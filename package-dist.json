@@ -5,7 +5,7 @@
     "main": "cjs/index.js",
     "module": "es/index.js",
     "repository": "https://github.com/cp949/pjs.git",
-    "author": "cp949 <softdada@gmail.com>",
+    "author": "cp949 <cp949@naver.com>",
     "license": "MIT",
     "homepage": "https://github.com/cp949/pjs.git",
     "scripts": {

@@ -10,7 +10,6 @@ function updatePackageDistJson() {
     toPkg.homepage = fromPkg.homepage
     toPkg.keywords = fromPkg.keywords
     toPkg.description = fromPkg.description
-    toPkg.description = fromPkg.description
     fs.writeFileSync('package-dist.json', JSON.stringify(toPkg, null, 4))
 }
 
